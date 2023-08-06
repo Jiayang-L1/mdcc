@@ -6,7 +6,7 @@ This repo provides a new multimodal dynamic dataset for donation-based crowdfund
 
     Xovee Xu, Jiayang Li, and Fan Zhou
     MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns
-    Under Review for ACM CIKM, 2023
+    ACM International Conference on Information and Knowledge Management (CIKM), 2023
 
 # Usage
 
@@ -56,7 +56,8 @@ If you find our work useful, please consider cite us:
 @inproceedings{xu2023mdcc, 
   author = {Xovee Xu and Jiayang Li and Fan Zhou}, 
   title = {{MDCC}: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns}, 
-  booktitle = {Under Review}, 
-  year = {2023}, 
+  booktitle = {ACM International Conference on Information and Knowledge Management (CIKM)}, 
+  year = {2023},
+  publisher = {ACM},
 }
 ```
