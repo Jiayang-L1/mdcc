@@ -1,6 +1,6 @@
 # MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns
 
-[![](https://img.shields.io/badge/DOI-10.5281/zenodo.8075200-blue)](https://doi.org/10.5281/zenodo.8075200) ![](https://img.shields.io/badge/CIKM'23-submission-green)  
+[![](https://img.shields.io/badge/DOI-10.5281/zenodo.8075200-blue)](https://doi.org/10.5281/zenodo.8287320) ![](https://img.shields.io/badge/CIKM'23-submission-green)  
 
 This repo provides a new multimodal dynamic dataset for donation-based crowdfunding campaigns on [GoFundMe](https://gofundme.com/). Our dataset contains project descriptions, campaign photos, project metadata, and dynamic data including donations, updates and comments. 
 
@@ -13,7 +13,7 @@ This repo provides a new multimodal dynamic dataset for donation-based crowdfund
 ## Dataset Download
 
 The dataset can be obtained via Zenodo
-(doi: [10.5281/zenodo.8075200](https://doi.org/10.5281/zenodo.8075200)).
+(doi: [10.5281/zenodo.8287320](https://doi.org/10.5281/zenodo.8287320)).
 
 There are three files: raw data, experimental data, and Photos. 
 
@@ -48,6 +48,8 @@ To reproduce our results, run `main.py` in experiments. Use `feat_types` paramet
 
 Creative Commons Attribution Non Commercial 4.0 International
 
+This dataset is intended solely for academic research and should not be utilized to develop services or algorithms that promote unfair or unethical practices.
+
 ## Cite
 
 If you find our work useful, please consider cite us:
@@ -58,6 +60,8 @@ If you find our work useful, please consider cite us:
   title = {{MDCC}: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns}, 
   booktitle = {ACM International Conference on Information and Knowledge Management (CIKM)}, 
   year = {2023},
+  address = {Birmingham, United Kingdom},
   publisher = {ACM},
+  doi = {10.1145/3583780.3615124}, 
 }
 ```
