@@ -1,6 +1,6 @@
 # MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns
 
-[![](https://img.shields.io/badge/DOI-10.5281/zenodo.8287320-blue)](https://doi.org/10.5281/zenodo.8287320) ![](https://img.shields.io/badge/CIKM'23-submission-green)  
+[![](https://img.shields.io/badge/DOI-10.5281/zenodo.8287320-blue)](https://doi.org/10.5281/zenodo.8287320) ![](https://img.shields.io/badge/CIKM-23-green)  
 
 This repo provides a new multimodal dynamic dataset for donation-based crowdfunding campaigns on [GoFundMe](https://gofundme.com/). Our dataset contains project descriptions, campaign photos, project metadata, and dynamic data including donations, updates and comments. 
 
