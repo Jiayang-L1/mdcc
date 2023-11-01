@@ -1,12 +1,12 @@
 # MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns
 
-[![](https://img.shields.io/badge/DOI-10.5281/zenodo.8287320-blue)](https://doi.org/10.5281/zenodo.8287320) ![](https://img.shields.io/badge/CIKM-23-green)  
+[![](https://img.shields.io/badge/Paper_DOI-10.1145/3583780.3615124-orange)](https://doi.org/10.1145/3583780.3615124) [![](https://img.shields.io/badge/Data_DOI-10.5281/zenodo.8287320-blue)](https://doi.org/10.5281/zenodo.8287320) ![](https://img.shields.io/badge/CIKM-23-green)  
 
 This repo provides a new multimodal dynamic dataset for donation-based crowdfunding campaigns on [GoFundMe](https://gofundme.com/). Our dataset contains project descriptions, campaign photos, project metadata, and dynamic data including donations, updates and comments. 
 
     Xovee Xu, Jiayang Li, and Fan Zhou
     MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns
-    ACM International Conference on Information and Knowledge Management (CIKM), 2023
+    ACM International Conference on Information and Knowledge Management (CIKM), Oct 21-25, Birmingham, UK, 2023, pp. 5417-5421.
 
 # Usage
 
@@ -62,6 +62,7 @@ If you find our work useful, please consider cite us:
   year = {2023},
   address = {Birmingham, United Kingdom},
   publisher = {ACM},
+  pages = {5417--5421}, 
   doi = {10.1145/3583780.3615124}, 
 }
 ```
